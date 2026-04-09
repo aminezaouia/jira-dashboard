@@ -836,8 +836,8 @@ GITHUB_REPO_URL=https://github.com/org/repo</div>
         <h3>&#x1f510; Jira Session Required</h3>
         <p>${this.error || 'Paste your Jira session cookie to connect. It will be saved locally and reused automatically on restart.'}</p>
         <ol class="cookie-steps">
-          <li>Open <strong>jira.cloud.nexpublica.com</strong> in your browser (log in if needed)</li>
-          <li>Open DevTools → Application → Cookies → <code>jira.cloud.nexpublica.com</code></li>
+          <li>Open your Jira instance in your browser (log in if needed)</li>
+          <li>Open DevTools → Application → Cookies → your Jira domain</li>
           <li>Copy the <strong>cloud.session.token</strong> value</li>
           <li>Paste it below (just the value, no name prefix needed)</li>
         </ol>
