@@ -1,7 +1,6 @@
 import { LitElement, html, css } from 'lit';
 
-// No server-side loader — data is fetched client-side via /api/jira
-// This avoids Windows path-normalization issues with the LumenJS loader transform.
+// Data is fetched client-side via /api/jira (no server-side loader needed for this use case).
 
 export class PageIndex extends LitElement {
   static properties = {
@@ -968,7 +967,3 @@ GITHUB_REPO_URL=https://github.com/org/repo</div>
   }
 }
 
-// autoDefinePlugin doesn't run on Windows due to path separator mismatch — register manually.
-if (!customElements.get('page-index')) {
-  customElements.define('page-index', PageIndex);
-}
