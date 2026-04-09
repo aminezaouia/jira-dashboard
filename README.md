@@ -32,11 +32,11 @@ A full-stack developer dashboard built on [LumenJS](https://github.com/Nuralyio/
 
 Home page: 
 
-<img width="1083" height="564" alt="image" src="https://github.com/user-attachments/assets/6b74bda8-40a8-4eaa-824d-772fb670892d" />
+![Capture d&#39;écran 2026-04-09 111153(2)](https://github.com/user-attachments/assets/d4fc5af2-dc08-4ff4-b559-acddcaee25c4)
 
 "Salve with Claude" window:
 
-![Capture d&#39;écran 2026-04-09 111153(2)](https://github.com/user-attachments/assets/5a3bc902-5ed3-4e80-9b5f-8ceef0136842)
+![Capture d&#39;écran 2026-04-09 111153(2)(1)](https://github.com/user-attachments/assets/38ea854c-8bdc-4898-b5ba-025af1eb19d5)
 
 ## Setup
 
