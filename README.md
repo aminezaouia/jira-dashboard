@@ -28,6 +28,17 @@ A full-stack developer dashboard built on [LumenJS](https://github.com/Nuralyio/
 
 ---
 
+## Screen Shots
+
+Home page: 
+
+<img width="1891" height="938" alt="Capture d&#39;écran 2026-04-09 103114" src="https://github.com/user-attachments/assets/7e898876-1aca-44b6-8834-e8dedc47de07" />
+
+"Salve with Claude" window:
+
+<img width="432" height="443" alt="image" src="https://github.com/user-attachments/assets/fa9ce09b-4436-4e85-861f-2f38c51e249e" />
+
+
 ## Setup
 
 ```bash
